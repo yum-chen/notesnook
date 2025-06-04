@@ -2612,10 +2612,6 @@ msgstr "Fix it"
 msgid "Float image"
 msgstr "Float image"
 
-#: src/strings.ts:1994
-msgid "Hide sidebar"
-msgstr "Hide sidebar"
-
 #: src/strings.ts:2142
 msgid "Follow"
 msgstr "Follow"
@@ -2849,6 +2845,10 @@ msgstr "Hide app contents when you switch to other apps. This will also disable 
 #: src/strings.ts:2147
 msgid "Hide note title"
 msgstr "Hide note title"
+
+#: src/strings.ts:1994
+msgid "Hide sidebar"
+msgstr "Hide sidebar"
 
 #: src/strings.ts:2258
 msgid "Highlight"

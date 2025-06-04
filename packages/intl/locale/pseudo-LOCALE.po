@@ -2605,10 +2605,6 @@ msgstr ""
 msgid "Float image"
 msgstr ""
 
-#: src/strings.ts:1994
-msgid "Hide sidebar"
-msgstr ""
-
 #: src/strings.ts:2142
 msgid "Follow"
 msgstr ""
@@ -2836,6 +2832,10 @@ msgstr ""
 
 #: src/strings.ts:2147
 msgid "Hide note title"
+msgstr ""
+
+#: src/strings.ts:1994
+msgid "Hide sidebar"
 msgstr ""
 
 #: src/strings.ts:2258
